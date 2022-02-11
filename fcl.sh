@@ -1,3 +1,3 @@
 #!/bin/bash
 
-fortune | cowsay | fortune
+fortune | cowsay | lolcat
