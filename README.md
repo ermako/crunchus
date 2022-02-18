@@ -1,3 +1,3 @@
 # crunchus
 NFT Marketplace
-Made by Sussy (eric) & max
+Made by Sussy (Eric) & Max
